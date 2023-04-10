@@ -34,7 +34,7 @@ export const PricingStyle = styled.div`
 
   a {
     text-decoration: none;
-    background: #5800ed;
+    background: #DC2D27;
     padding: 10px 40px;
     border-radius: 10px;
     color: #fff;

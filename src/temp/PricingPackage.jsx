@@ -11,7 +11,7 @@ const PricingPackage = ({ title, price, features, buttonText, buttonLink }) => {
           <li key={feature}>{feature}</li>
         ))}
       </ul>
-      <a href={buttonLink}>{buttonText}</a>
+      <a href={buttonLink} target="_blank">{buttonText}</a>
     </PricingStyle>
   );
 };
