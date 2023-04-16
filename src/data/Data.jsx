@@ -20,7 +20,7 @@ const data = [
       "Video Coverage",
       "Songwriting",
       "Production",
-      "1 Song",
+      "2 Song",
       "1 on 1 Interview",
       "A&R Services",
       "Promotional Planning",
